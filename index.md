@@ -25,8 +25,8 @@ In this installation tutorial, we will be using Digital Ocean to deploy two diff
    ```
 - Create a new non-root admin user
    ```adduser user_name
-      usermod -aG sudo user_name
-      su user_name
+   usermod -aG sudo user_name
+   su user_name
    ```
 - Once your are under the non-root user, then you can start updateing your server before other steps by using the following command:
    ```
