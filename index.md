@@ -1,8 +1,14 @@
 
 
-In this installation tutorial, we will be using Digital Ocean to deploy a customized VPN Server.
+In this installation tutorial, we will be using Digital Ocean to deploy a customized VPN.
 
-There will be two different servers: Certificate Authority (CA) Server & OpenVPN Server
+There will be two different servers used in this tutorial: 
+- Certificate Authority (CA) Server
+- OpenVPN Server
+
+Some tools you may have to install:
+- Cyberduck (To retreive your files in the server)
+- Tunnelblick / OpenVPN Client (To connect your VPN Server on your device)
 
 #### Pre-requisite: Setting up server(s) on DigitalOcean
    
