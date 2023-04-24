@@ -1,6 +1,8 @@
 
 
-In this installation tutorial, we will be using Digital Ocean to deploy two different servers: Certificate Authority (CA) Server & OpenVPN Server
+In this installation tutorial, we will be using Digital Ocean to deploy a customized VPN Server.
+
+There will be two different servers: Certificate Authority (CA) Server & OpenVPN Server
 
 #### Pre-requisite: Setting up server(s) on DigitalOcean
    
