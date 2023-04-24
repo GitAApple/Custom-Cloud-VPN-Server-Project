@@ -256,7 +256,7 @@ sudo cp ta.key /etc/openvpn/server
    ```
    net.ipv4.ip_forward = 1
    ```
-  - then
+  - then use the follow command to check
    ```
    sudo sysctl -p
    ```
